@@ -30,7 +30,7 @@ iOS 网络请求库。基于AFNetworking封装.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'Classes/**/*'
+  s.source_files = 'WYOCNetwork/Classes/**/*'
   
   #s.resource_bundles = {
   #    'WYOCNetwork' => ['WYOCNetwork/Assets/*.png']
