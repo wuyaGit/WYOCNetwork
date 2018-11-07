@@ -1,0 +1,6 @@
+framework module WYOCNetwork {
+  umbrella header "WYOCNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

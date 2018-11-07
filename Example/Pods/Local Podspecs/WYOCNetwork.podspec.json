@@ -1,0 +1,33 @@
+{
+  "name": "WYOCNetwork",
+  "version": "0.1.0",
+  "summary": "iOS 网络请求库。基于AFNetworking封装.",
+  "description": "iOS 网络请求库。基于AFNetworking封装.",
+  "homepage": "https://github.com/wuyaGit/WYOCNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wuya": "407671883@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wuyaGit/WYOCNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WYOCNetwork/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "YYCache": [
+
+    ],
+    "YYModel": [
+
+    ]
+  }
+}
