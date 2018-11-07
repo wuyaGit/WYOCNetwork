@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
-  - WYOCNetwork (0.1.0):
+  - WYOCNetwork (0.0.1):
     - AFNetworking
     - YYCache
     - YYModel
@@ -36,7 +36,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  WYOCNetwork: 80539c1ae2cf701d1a6458fd7ff780b72088c070
+  WYOCNetwork: 454bba1ddd776af73d29d6d03c734fa03421a1c3
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
   YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
 
