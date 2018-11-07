@@ -7,7 +7,7 @@
 //
 
 #import "WYOCNetworkCache.h"
-#import <YYCache.h>
+#import <YYCache/YYCache.h>
 
 static NSString *const kNetworkResponseCache = @"kNetworkResponseCache";
 static YYCache *_dataCache;
