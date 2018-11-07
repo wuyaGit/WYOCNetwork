@@ -32,9 +32,9 @@ iOS 网络请求库。基于AFNetworking封装.
 
   s.source_files = 'WYOCNetwork/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'WYOCNetwork' => ['WYOCNetwork/Assets/*.png']
-  # }
+  s.resource_bundles = {
+      'WYOCNetwork' => ['WYOCNetwork/Assets/*.png']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
