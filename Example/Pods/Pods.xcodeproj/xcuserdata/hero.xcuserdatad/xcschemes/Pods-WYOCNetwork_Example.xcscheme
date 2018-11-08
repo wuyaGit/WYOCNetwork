@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4497F2044B8EA300112F2F43B87EBB1C"
+               BlueprintIdentifier = "7FD45A31B7B524A89EC0B574F2CA4B18"
                BlueprintName = "Pods-WYOCNetwork_Example"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libPods-WYOCNetwork_Example.a">
